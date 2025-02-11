@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
-  <img src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.11.2/1732645302637/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" title="VBA"/>
+  <img src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.11.2/1732645302637/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" title="Visual Basic"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
 </p>
 
