@@ -15,7 +15,6 @@
   <img src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.11.2/1732645302637/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 </p>
-<br/>
 
 ## **Programming Languages Fronted**
 <p align="left">
@@ -24,15 +23,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 </p>
 
-<br/>
-
 ## **Database Languages**
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </p>
 
-<br/>
 
 ## **Framework**
 <p align="left">
@@ -41,7 +37,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 <p>
 
-<br/>
 
 ## **Tols**
 <p align="left">
